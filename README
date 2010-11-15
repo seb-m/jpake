@@ -1,0 +1,7 @@
+Small subgroup confinement issue with session key retrieval in the J-PAKE
+implementations of OpenSSL and OpenSSH.
+
+Repository:
+  jpake-session-key-retrieval.pdf - note about this issue
+  openssl-jpake/ - demo code for OpenSSL
+  openssh-jpake/ - demo code for OpenSSH
